@@ -175,11 +175,11 @@ Charts were created to visualize:
 
 ### Descriptive Statistics & Outlier Analysis
 
-![Descriptive Statistics](screenshots/descriptive_statistics.png)
+![Descriptive Statistics](screenshots/descriptive_statistics.Png)
 
 ### Pivot Table Analysis
 
-![Pivot Table Analysis](screenshots/pivot_table_analysis.png)
+![Pivot Table Analysis](screenshots/pivot_table_analysis.Png)
 
 ### Data Visualizations
 
