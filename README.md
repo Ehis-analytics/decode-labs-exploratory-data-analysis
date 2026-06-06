@@ -172,19 +172,34 @@ Charts were created to visualize:
 - Analyze purchasing patterns among customers who buy without coupons to identify opportunities for increasing full-price sales.
 
   ## Analysis Outputs
+
+### Descriptive Statistics & Outlier Analysis
+
+![Descriptive Statistics](screenshots/descriptive_statistics.png)
+
+### Pivot Table Analysis
+
+![Pivot Table Analysis](screenshots/pivot_table_analysis.png)
+
+### Data Visualizations
+
+![Charts](screenshots/charts.png)
+
+### Summary Page
+
+![Summary Page](screenshots/summary_page.png)
+
+---
+
+## Project Files
+
+### EDA Workbook
+
+- [Download EDA Workbook](decodelabs_exploratory_data_analysis(eda).xlsx)
   
-  ### Descriptive Stastustic & outlier Analysis
+ 
 
-  ![descriptive stastistics](Screenshots/descriptive_stastistics.png)
-
-  ### pivote table Analysis
-  ![Pivote_table Analysis](Screenshots/pivote_table_analysis.png)
-
-  ### Data Visualization
-  ![charts](Screenshots/Charts.png)
-
-  ### Summary page
-  [summary](summary.png)
+  
 
   
   
