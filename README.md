@@ -171,6 +171,24 @@ Charts were created to visualize:
 
 - Analyze purchasing patterns among customers who buy without coupons to identify opportunities for increasing full-price sales.
 
+  ## Analysis Outputs
+  
+  ### Descriptive Stastustic & outlier Analysis
+
+  ![descriptive stastistics](Screenshots/descriptive_stastistics.png)
+
+  ### pivote table Analysis
+  ![Pivote_table Analysis](Screenshots/pivote_table_analysis.png)
+
+  ### Data Visualization
+  ![charts](Screenshots/Charts.png)
+
+  ### Summary page
+  [summary](summary.png)
+
+  
+  
+
 ---
 
 ## Analysis Output
