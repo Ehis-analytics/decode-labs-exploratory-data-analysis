@@ -197,6 +197,20 @@ Charts were created to visualize:
 ### EDA Workbook
 
 - [Download EDA Workbook](decodelabs_exploratory_data_analysis(eda).xlsx)
+
+
+## Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Descriptive Statistics
+- Data Visualization
+
+---
+
+## Conclusion
+
+This exploratory data analysis revealed important patterns in customer purchasing behavior, product demand, payment preferences, coupon usage, referral channel effectiveness, and order fulfillment performance. The findings provide valuable insights that can support data-driven business decisions, improve marketing strategies, optimize operations, and enhance overall sales performance.
   
  
 
