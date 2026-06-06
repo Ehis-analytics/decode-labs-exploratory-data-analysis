@@ -187,7 +187,7 @@ Charts were created to visualize:
 
 ### Summary Page
 
-![Summary Page](screenshots/summary_page.png)
+![Summary page](screenshots/summary.png)
 
 ---
 
@@ -206,8 +206,7 @@ Charts were created to visualize:
 
 ---
 
-## Analysis Output
-### Descriptive Stastistics & Outlier Output
+
 
 
   
