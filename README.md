@@ -1,4 +1,4 @@
-# decode-labs-exploratory-data-analysis
+# Decode labs Project 2:decode-labs-exploratory-data-analysis
 ## Project Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) on an e-commerce transaction dataset. The objective was to explore customer purchasing behavior, product performance, payment preferences, coupon usage, referral channels, and overall sales performance.
